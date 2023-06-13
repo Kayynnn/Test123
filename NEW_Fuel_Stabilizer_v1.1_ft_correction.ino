@@ -4,7 +4,7 @@ int validation_threshold = 120; // banyak validasi sampling
 int ft_detection = 0;
 int count_false_validation = 0;
 int count_bad_data = 0;
-int count_sampling_amount = 0;
+int count_sampling_amount = 0; /// nih yg ini
 int ft_validation = 0;
 int ft_benchmark_id[150];
 int start_detection[150];
